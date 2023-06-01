@@ -27,8 +27,8 @@ O projeto consiste nos seguintes arquivos:
 
 ## Demonstração
 
-![Landing Page](./imagens/Formul%C3%A1rio%20com%20Valida%C3%A7%C3%A3o.png)
-![Landing Page com validação](./imagens/Formul%C3%A1rio%20com%20Valida%C3%A7%C3%A3o%20com%20erro.png)
+![Landing Page](./imagens/FormulariocomValidacao.png
+![Landing Page com validação](./imagens/FormulariocomValidacaocomErro.png)
 
 ## Como utilizar
 
