@@ -40,6 +40,20 @@ main{
     font-weight: 500;
 }
 
+.localizacao ul{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 180px;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.localizacao ul li img{
+    width: 24px;
+    height: 24px;
+}
+
 .localizacao iframe{
     max-width: 600px; 
     max-height: 450px;
@@ -48,6 +62,7 @@ main{
 
 .localizacao p{
     max-width: 600px;
+    margin-bottom: 15px;
     
 }
 
