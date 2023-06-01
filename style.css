@@ -17,11 +17,16 @@ header{
     align-items: center;
 }
 
+header h1{
+    font-size: 48px;
+    font-weight: 500;
+}
+
 main{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    align-items: center;
+    
 }
 
 .localizacao{
@@ -32,7 +37,7 @@ main{
 
 .localizacao h2{
     font-size: 24px;
-    font-weight: 400;
+    font-weight: 500;
 }
 
 .localizacao iframe{
@@ -46,5 +51,23 @@ main{
     
 }
 
+form{
+    display: flex;
+    flex-direction: column;
+    margin: 40px;
+}
+form #name, #menssagem, #email{
+    margin: 10px 0;
+    border-radius: 15px;
+    padding: 15px;
+}
 
+form #botao{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #282828;
+    color: azure;
+    border: none;
+    width: 90px;
+}
 
